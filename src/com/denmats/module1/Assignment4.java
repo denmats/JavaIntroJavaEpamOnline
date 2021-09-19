@@ -2,10 +2,10 @@ package com.denmats.module1;
 
 import java.math.BigDecimal;
 
-public class Assessment4 {
+public class Assignment4 {
     private final double number;
 
-    public Assessment4(double number) {
+    public Assignment4(double number) {
         this.number = number;
     }
 

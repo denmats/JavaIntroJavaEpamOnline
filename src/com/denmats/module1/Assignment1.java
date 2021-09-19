@@ -1,11 +1,11 @@
 package com.denmats.module1;
 
-public class Assessment1 {
+public class Assignment1 {
     private final double a;
     private final double b;
     private final double c;
 
-    public Assessment1(double a, double b, double c) {
+    public Assignment1(double a, double b, double c) {
         this.a = a;
         this.b = b;
         this.c = c;
